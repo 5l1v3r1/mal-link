@@ -1,0 +1,11 @@
+StringTable 000004b0
+Comments	HonKong Installer rar
+CompanyName	Installer from Europe
+FileDescription	Developer's for HonKong
+FileVersion	65.34.4.91
+InternalName	clip_s.exe
+LegalCopyright	Copyright © 2004-2021 Firmined HonKong
+OriginalFilename	clip_s.exe
+ProductName	Installer Developers
+ProductVersion	65.34.4.91
+Assembly Version	1.0.0.0
